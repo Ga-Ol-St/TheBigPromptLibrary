@@ -3,6 +3,8 @@
 System prompts / instructions of various LLM systems.
 
 ## OpenAI
+- [Codex CLI - gpt-5.6-sol - 09/02/2026](./OpenAI/20260902-Codex-CLI-gpt5.6-sol.md)
+- [Codex CLI - gpt-5.6-luna - 09/02/2026](./OpenAI/20260902-Codex-CLI-gpt5.6-luna.md)
 - [ChatGPT 4o - Full System Prompt (with Study Mode) - 07/29/2025](./OpenAI/chatgpt_4o_full_07292025.md)
 - [ChatGPT - Study Mode (only) - 07/29/2025](./OpenAI/chatgpt_study_mode_07292025.md)
 - [ChatGPT 4.1 Mini - System Prompt - 06/29/2025](./OpenAI/gpt41_mini_06292025.md)
@@ -38,6 +40,10 @@ System prompts / instructions of various LLM systems.
 - [GPT Builder](./OpenAI/gpt_builder.md)
 
 ## Anthropic
+- [Claude Code - Opus 5 - interactive - 09/02/2026](./Anthropic/20260902-Claude-Code-Opus5-interactive.md)
+- [Claude Code - Fable 5.1 - interactive - 09/02/2026](./Anthropic/20260902-Claude-Code-Fable5.1-interactive.md)
+- [Claude Code - Fable 5.1 - `-p` print mode - 09/02/2026](./Anthropic/20260902-Claude-Code-Fable5.1-print.md)
+- [Claude Code - Opus 4.8 - interactive - 09/02/2026](./Anthropic/20260902-Claude-Code-Opus4.8-interactive.md)
 - [Claude Cowork - 01/12/2026](./Anthropic/20260112-Claude-Cowork.md)
 - [Claude Opus 4.5 - Soul Document - 12/02/2025](./Anthropic/20251202-Claude-Opus4.5-Soul-Document.md)
 - [Claude Sonnet 4.5 - 10/28/2025](./Anthropic/20251028-Claude-Sonnet4.5.md)
@@ -192,6 +198,14 @@ See: [https://quillbot.com/](https://quillbot.com/)
 See: [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
 
 - [Notion AI - agent context - 03/22/2026](./Notion/notion-ai_20260322/README.md) - 101 files of module instructions and tool declarations; root system prompt not included
+
+## OpenCode
+
+See: [https://opencode.ai/](https://opencode.ai/)
+
+- [opencode - big-pickle - 09/02/2026](./OpenCode/20260902-opencode-big-pickle.md)
+- [opencode - muse-spark-1.2 - 09/02/2026](./OpenCode/20260902-opencode-muse-spark-1.2.md)
+- [opencode - gpt-5.6-sol - 09/02/2026](./OpenCode/20260902-opencode-gpt5.6-sol.md)
 
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
